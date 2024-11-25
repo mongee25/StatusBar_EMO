@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatusBar_EMO.Android", "StatusBar_EMO\StatusBar_EMO.Android\StatusBar_EMO.Android.csproj", "{AF39ED17-841D-4FB4-99D3-E79B04A7FCE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatusBar_EMO.iOS", "StatusBar_EMO\StatusBar_EMO.iOS\StatusBar_EMO.iOS.csproj", "{AAA8B49E-7204-4B32-A999-1D54E29A441D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatusBar_EMO", "StatusBar_EMO\StatusBar_EMO\StatusBar_EMO.csproj", "{8CCFCFDF-35A4-4990-BF14-C5328A7D6421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF39ED17-841D-4FB4-99D3-E79B04A7FCE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF39ED17-841D-4FB4-99D3-E79B04A7FCE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF39ED17-841D-4FB4-99D3-E79B04A7FCE6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AF39ED17-841D-4FB4-99D3-E79B04A7FCE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF39ED17-841D-4FB4-99D3-E79B04A7FCE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF39ED17-841D-4FB4-99D3-E79B04A7FCE6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AAA8B49E-7204-4B32-A999-1D54E29A441D}.Debug|Any CPU.ActiveCfg = Debug|iPhone
+		{AAA8B49E-7204-4B32-A999-1D54E29A441D}.Debug|Any CPU.Build.0 = Debug|iPhone
+		{AAA8B49E-7204-4B32-A999-1D54E29A441D}.Debug|Any CPU.Deploy.0 = Debug|iPhone
+		{AAA8B49E-7204-4B32-A999-1D54E29A441D}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{AAA8B49E-7204-4B32-A999-1D54E29A441D}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
+		{AAA8B49E-7204-4B32-A999-1D54E29A441D}.Release|Any CPU.Deploy.0 = Release|iPhoneSimulator
+		{8CCFCFDF-35A4-4990-BF14-C5328A7D6421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CCFCFDF-35A4-4990-BF14-C5328A7D6421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CCFCFDF-35A4-4990-BF14-C5328A7D6421}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8CCFCFDF-35A4-4990-BF14-C5328A7D6421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CCFCFDF-35A4-4990-BF14-C5328A7D6421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CCFCFDF-35A4-4990-BF14-C5328A7D6421}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
